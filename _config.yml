@@ -74,3 +74,4 @@ defaults:
       path: ""
     values:
       toc: true
+      toc_label: "Содержание"
