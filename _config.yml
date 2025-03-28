@@ -69,3 +69,8 @@ markdown: kramdown
 kramdown:
     math_engine: mathjax
 render_with_liquid: false    
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
