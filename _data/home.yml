@@ -1,0 +1,29 @@
+navbar_entries:
+  - title: Заглавная страница
+    url: https://pipidaster8333.github.io
+  
+  - title: Информация
+    url: about
+
+project_entries:
+  - title: Комплексные числа
+    url: complex
+    desc: Моя статья про комплексные числа
+    highlight: WIP
+
+  - title: Большие числа
+    url: big
+    desc: Моя статья про большие числа
+    highlight: WIP
+
+footer_entries:
+  - title: Я на YouTube
+    url: https://youtube.com/@mr.pumpkinn
+
+  - title: Я в твиттере
+    url: https://twitter.com/pipidaster8333
+
+  - title: Мой github
+    url: https://github.com/pipidaster8333
+    
+misc_entries:
