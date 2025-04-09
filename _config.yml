@@ -24,7 +24,6 @@ description: >- # Это моя книга по математике
 baseurl: ""
 url: "https://pipidaster8333.github.io"
 # Build settings
-remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
