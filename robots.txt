@@ -1,6 +1,3 @@
-Disallow: /*.html
-Disallow: /*.css
-Disallow: /*.js
 Disallow: /*.yml
 Disallow: /Gemfile
 Disallow: /Gemfile.lock
