@@ -1,3 +1,4 @@
+user-agent: *
 Disallow: /*.yml
 Disallow: /Gemfile
 Disallow: /Gemfile.lock
