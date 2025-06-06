@@ -21,7 +21,7 @@ title: Мир математики
 author: pipidaster8333
 email: matvejrykov741@gmail.com
 description: >- # Это моя книга по математике
-baseurl: ""
+baseurl: "/"
 url: "https://pipidaster8333.github.io"
 # Build settings
 plugins:
